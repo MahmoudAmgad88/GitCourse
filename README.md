@@ -1,4 +1,4 @@
-# GitCourse
+# GitCourse with Ossama Elzero
 For ElZero Course Git Course
 # Basic writing and formatting syntax link
 * https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
@@ -12,5 +12,20 @@ For ElZero Course Git Course
 * cd My-Github
 * dir
 # 04 Add rest commit
+* git statuse
+* git add * or git add css\main.css index.html
+* git statuse
+* >> if you neee to perform unstage:
+  >> git reset head salakawy.rtf 
+* git statuse
+* git config --global user.email "eng.salakawy@gmail.com"
+* git config --global user.name "MahmoudAmgad88"
+
+* git commit -m "your comment"
+
+* >> if you need to add other changes before git push >>
+  >> git add >> git commit -m "your comment"
+  >> git statuse
+  >> 
 
 
