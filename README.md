@@ -44,4 +44,4 @@ git commit -m "descriptive message"
        - You may want to first integrate the remote changes(e.g., 'git pull ...') before pushing again.
   
 ## 06 Git Pull
-* Use `git pull` to fetch and download content from a remote repository and immediately update the local repository to match that content
+* Use `git pull RemoteName` to fetch and download content from a remote repository and immediately update the local repository to match that content
