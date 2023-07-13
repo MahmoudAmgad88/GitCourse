@@ -7,7 +7,7 @@ For ElZero Course Git Course
 * download github
 * open cmder then creat folder `mkdir My-Github`
 * ceate new repo in github with `README file` then Copy HTTPS code from your repo
-* from cmder type `git clone "then past HTTPS code from your repo"`
+* from cmder type `git clone [HTTPS code link from your repo]`
 * ls
 * cd My-Github
 * dir
