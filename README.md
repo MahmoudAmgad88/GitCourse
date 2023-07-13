@@ -8,7 +8,7 @@ For ElZero Course Git Course
 * open cmder then creat folder `mkdir My-Github`
 * ceate new repo in github with `README file` then Copy HTTPS code from your repo
 * from cmder type `git clone [HTTPS code link from your repo]`
-* excute below two commands to confirm your downloads:
+* excute below commands to confirm your downloads:
 ```
 ls
 cd My-Github
@@ -23,7 +23,7 @@ dir
   git config --global user.email "eng.salakawy@gmail.com"
   git config --global user.name "MahmoudAmgad88"
 ```
-* Use `git commit -m "descriptive message"`: Records file snapshots permanently in version history from staging to local repo
+* Use `git commit -m "descriptive message"`: Records file snapshots permanently in version history from staging area to local repo
 
 ### 04 all needed Git commands are:
 ```
@@ -35,3 +35,6 @@ git commit -m "descriptive message"
 
 ![Scr](https://github.com/MahmoudAmgad88/GitCourse/assets/54455617/ccdf5282-c724-4817-880f-1617489429d8)
 
+## 05 Push Local Changes to Remote repo
+* Use `git branch` to know all your branshes in local repo
+* 
