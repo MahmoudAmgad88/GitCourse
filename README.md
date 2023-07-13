@@ -8,9 +8,12 @@ For ElZero Course Git Course
 * open cmder then creat folder `mkdir My-Github`
 * ceate new repo in github with `README file` then Copy HTTPS code from your repo
 * from cmder type `git clone [HTTPS code link from your repo]`
-* ls
-* cd My-Github
-* dir
+* excute below two commands to confirm your downloads:
+```
+ls
+cd My-Github
+dir
+```
 ## 04 Add rest commit
 * Use `git status` to show you what branch you're on, what files are in the working or staging directory, and list all new or modified files that haven't yet been committed.
 * Use `git add *` or `git add [filename]` like `git add css\main.css index.html`to adds new or changed files in your working directory to the Git staging area.
