@@ -39,7 +39,6 @@ git commit -m "descriptive message"
 * Use `git branch` to know all your branshes in local repo
 * Use `git remote -v` to know your remote repo.
 * Use `git push RemoteName BranshName` to uploads all local branch commits to the corresponding remote branch.
-1. hint. First list item
-       - Updates were rejected because the remote contains work that you do not have locally
-         - This is usually caused by another repository pushing to the same ref. You may want to first integrate the remote changes(e.g., 'git pull ...') before pushing again.
+hint: Updates were rejected because the remote contains work that you do not have locally
+     - This is usually caused by another repository pushing to the same ref. You may want to first integrate the remote changes(e.g., 'git pull ...') before pushing again.
   
