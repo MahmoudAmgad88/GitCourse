@@ -4,9 +4,9 @@ For ElZero Course Git Course
 * https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 ## 03 create github repo and clone it to you local disk
 * download cmder
-* cd cmder_mini
-* mkdir My-Github
-* Copy HTTPS code from your repo
+* download github
+* open cmder then creat folder `mkdir My-Github`
+* ceate new repo in github with `README file` then Copy HTTPS code from your repo
 * from cmder type <git clone "then past your copy">
 * ls
 * cd My-Github
@@ -30,4 +30,5 @@ git reset [filename]
 git commit -m "descriptive message"
 ```
 
+![Scr](https://github.com/MahmoudAmgad88/GitCourse/assets/54455617/ccdf5282-c724-4817-880f-1617489429d8)
 
