@@ -1,8 +1,8 @@
 # GitCourse with Ossama Elzero
 For ElZero Course Git Course
-# Basic writing and formatting syntax link
+## Basic writing and formatting syntax link
 * https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-# 03 create github repo and clone it to you local disk
+## 03 create github repo and clone it to you local disk
 * download cmder
 * cd cmder_mini
 * mkdir My-Github
@@ -12,7 +12,7 @@ For ElZero Course Git Course
 * cd My-Github
 * dir
 # 04 Add rest commit
-* git statuse
+* Use `git status` to list all new or modified files that haven't yet been committed.
 * git add * or git add css\main.css index.html
 * git statuse
 * >> if you neee to perform unstage:
