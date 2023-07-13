@@ -45,3 +45,16 @@ git commit -m "descriptive message"
   
 ## 06 Git Pull
 * Use `git pull RemoteName` to fetch and download content from a remote repository and immediately update the local repository to match that content
+
+## 07 every thing about git configuration
+*  `git config --list`
+*  `git help config`
+*  `git config --global user.email`
+*  `git config --global user.name`
+*  `git config --list --show-origin`
+*  `git config --global --unset user.name`
+*  `git config --global user.name MahmoudAmgad88`
+*  `git config --global --edit`
+
+## 08 Generate and test github public kay
+* 
