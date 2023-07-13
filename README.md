@@ -38,4 +38,4 @@ git commit -m "descriptive message"
 ## 05 Push Local Changes to Remote repo
 * Use `git branch` to know all your branshes in local repo
 * Use `git remote -v` to know your remote repo.
-* Use `git push RemoteName BranshName`
+* Use `git push RemoteName BranshName` to uploads all local branch commits to the corresponding remote branch.
