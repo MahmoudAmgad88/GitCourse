@@ -57,4 +57,28 @@ git commit -m "descriptive message"
 *  `git config --global --edit`
 
 ## 08 Generate and test github public kay
-* 
+* Use `ssh-keygen -t rsa -b4096 -C "eng.salakawy@gmail.com"` to generate ssh keygen
+* Use `cat ~/.ssh/id_rsa.pub` to read your ssh keygen
+* from your github web got to setting in your profile then select setting then choose SSH and GPG keys then choose add key
+* Use `ssh -T git@github.com` to test you key working normally.
+
+## 09 Create repo from existing project
+* `mkdir repos`
+* `cd repos\`
+* Use `ssh -T git@github.com` to connected as ssh
+* Use `git init` to Initialized empty Git repository in D:/cmder_mini/My-Github/repos/.git/
+* Use `touch index.html` to create file
+  ```
+  git status
+  git add index.html
+  git status
+  git commit -m "trail repos"
+  git status
+  ```
+* go to your github and create new repo
+* run command `git remote add origin git@github.com:MahmoudAmgad88/Course2023.git`
+* run command `git branch -M main`
+* run command `git push -u origin main` this will pulll then push to avoid others modifications
+
+## 10 Learn Pull Request With Real Examples
+*  
