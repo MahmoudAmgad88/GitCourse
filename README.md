@@ -13,7 +13,7 @@ For ElZero Course Git Course
 * dir
 # 04 Add rest commit
 * Use `git status` to list all new or modified files that haven't yet been committed.
-* git add * or git add css\main.css index.html
+* * Use `git add *` or `git add css\main.css index.html` or 'git add [filename]' to adds new or changed files in your working directory to the Git staging area.
 * git statuse
 * >> if you neee to perform unstage:
   >> git reset head salakawy.rtf 
